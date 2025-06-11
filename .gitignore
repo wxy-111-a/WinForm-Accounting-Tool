@@ -1,0 +1,8 @@
+# Visual Studio 相关
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+bin/
+obj/
