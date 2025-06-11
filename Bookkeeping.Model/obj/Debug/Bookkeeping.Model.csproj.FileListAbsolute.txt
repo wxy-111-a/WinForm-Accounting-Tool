@@ -1,0 +1,5 @@
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.Model\bin\Debug\Bookkeeping.Model.dll
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.Model\bin\Debug\Bookkeeping.Model.pdb
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.Model\obj\Debug\Bookkeeping.Model.csprojResolveAssemblyReference.cache
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.Model\obj\Debug\Bookkeeping.Model.dll
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.Model\obj\Debug\Bookkeeping.Model.pdb

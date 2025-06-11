@@ -1,0 +1,14 @@
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\bin\Debug\Bookkeeping.UI.exe.config
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\obj\Debug\Bookkeeping.UI.csprojResolveAssemblyReference.cache
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\obj\Debug\Bookkeeping.UI.Properties.Resources.resources
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\obj\Debug\Bookkeeping.UI.csproj.GenerateResource.Cache
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\bin\Debug\Bookkeeping.UI.exe
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\bin\Debug\Bookkeeping.UI.pdb
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\bin\Debug\Bookkeeping.BLL.dll
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\bin\Debug\Bookkeeping.Model.dll
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\bin\Debug\Bookkeeping.DAL.dll
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\bin\Debug\Bookkeeping.BLL.pdb
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\bin\Debug\Bookkeeping.Model.pdb
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\bin\Debug\Bookkeeping.DAL.pdb
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\obj\Debug\Bookkeeping.UI.exe
+D:\闲鱼\2025年\6月\6-9 记账2\BookkeepingSolution\Bookkeeping.UI\obj\Debug\Bookkeeping.UI.pdb
